@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="day_weather">Погода днем</string>
+    <string name="night_weather">Погода ночью</string>
+    <string name="date">Дата</string>
+    <string name="enroll_button">Записаться</string>
+    <string name="Hello">Добро пожаловать !</string>
+    <string name="input">Ввод</string>
+    <string name="conclusion">Вывод</string>
+</resources>
